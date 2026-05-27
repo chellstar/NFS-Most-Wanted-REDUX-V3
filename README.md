@@ -20,5 +20,5 @@ This modpack features a huge variety of mods created by the talentful members of
 ## INSTALLATION:
 1) Extract all files.
 2) Run the setup.
-3 Wait 5-10 mins.
+3) Wait 5-10 mins.
 4) Enjoy the game!
